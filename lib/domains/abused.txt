@@ -215,6 +215,7 @@ alabama.edu
 alu.comillas.edu
 alumno.utesa.edu
 apus.edu
+atc.edu
 au.edu
 aub.edu
 aya.yale.edu
@@ -1364,4 +1365,8 @@ unibe.edu.do
 bachkhoahanoi.edu.vn
 o365.fayoum.edu.eg
 ufpr.br
-ntthnue.edu.vn
+ntthnue.edu.vnu
+gujgov.edu.in
+senacsp.edu.br
+st.haui.edu.vn
+ms.hanu.edu.vn
